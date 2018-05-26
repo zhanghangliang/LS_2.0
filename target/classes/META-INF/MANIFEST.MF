@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: springboot
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: bootTest
+Build-Jdk: 1.7.0_01
+Built-By: asus
+Created-By: Maven Integration for Eclipse
+Implementation-URL: http://maven.apache.org
+
